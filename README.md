@@ -8,6 +8,9 @@ Tools/Frameworks used:
 - Tachyons
 - Particles.js
 
+Back-end:
+https://github.com/RizaneEves/SmartBrain-API
+
 
 
 
