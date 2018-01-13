@@ -1,3 +1,18 @@
+# SmartBrain
+
+SmartBrain is a face recognition web application developed using React.js and several frameworks.
+
+Tools/Frameworks used:
+- React.js
+- Create React App
+- Tachyons
+- Particles.js
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
